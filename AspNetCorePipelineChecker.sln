@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCorePipelineChecker", "AspNetCorePipelineChecker\AspNetCorePipelineChecker.csproj", "{B637D250-3091-4E2C-BB27-179916B35494}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCorePipelineChecker.CodeFixes", "AspNetCorePipelineChecker.CodeFixes\AspNetCorePipelineChecker.CodeFixes.csproj", "{5F534021-8774-4419-8D8A-A15BAAE47568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCorePipelineChecker.Package", "AspNetCorePipelineChecker.Package\AspNetCorePipelineChecker.Package.csproj", "{679C5C58-1D6A-4394-9084-BA6A14FD8BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCorePipelineChecker.Test", "AspNetCorePipelineChecker.Test\AspNetCorePipelineChecker.Test.csproj", "{A1505777-CDD8-48F1-8431-D53B34472AC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCorePipelineChecker.Vsix", "AspNetCorePipelineChecker.Vsix\AspNetCorePipelineChecker.Vsix.csproj", "{4F39AA05-0AA4-48A9-AF2D-1F166657EFE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B637D250-3091-4E2C-BB27-179916B35494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B637D250-3091-4E2C-BB27-179916B35494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B637D250-3091-4E2C-BB27-179916B35494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B637D250-3091-4E2C-BB27-179916B35494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F534021-8774-4419-8D8A-A15BAAE47568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F534021-8774-4419-8D8A-A15BAAE47568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F534021-8774-4419-8D8A-A15BAAE47568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F534021-8774-4419-8D8A-A15BAAE47568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{679C5C58-1D6A-4394-9084-BA6A14FD8BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{679C5C58-1D6A-4394-9084-BA6A14FD8BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{679C5C58-1D6A-4394-9084-BA6A14FD8BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{679C5C58-1D6A-4394-9084-BA6A14FD8BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1505777-CDD8-48F1-8431-D53B34472AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1505777-CDD8-48F1-8431-D53B34472AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1505777-CDD8-48F1-8431-D53B34472AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1505777-CDD8-48F1-8431-D53B34472AC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F39AA05-0AA4-48A9-AF2D-1F166657EFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F39AA05-0AA4-48A9-AF2D-1F166657EFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F39AA05-0AA4-48A9-AF2D-1F166657EFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F39AA05-0AA4-48A9-AF2D-1F166657EFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {393C1F9F-D3B1-41B1-BFEF-B85E104DA059}
+	EndGlobalSection
+EndGlobal
